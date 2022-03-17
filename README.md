@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcel-rodriguez
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m currently working on full-stack projects utilizing React, JavaScript, Redux, Nodejs, PosgreSQL
 - 💞️ I’m looking to collaborate on Begginer Friendly / Exciting Projects 
 - 📫 How to reach me: github
 
